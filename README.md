@@ -1,6 +1,6 @@
 # Boorie - ESTAMOS CREANDO LOS CONTENIDOS NO HACER CASO TODAVIA -
 
-## Solución Inteligente para la Gestión de Aqueductos
+## Solución Inteligente para la Gestión de Acueductos
 
 ![Boorie Logo](https://www.boorie.es/icons/logo.svg)
 
